@@ -5,3 +5,5 @@ In this project we will try to train a NLP model with videos/Scripts/Audios to a
   2. Finding a data set
   3. Training the selected training model
   4. Testing
+
+## Sahan Mendis: I have a strong feeling that a mixture of supervised and unsupervised learning can be used here.
