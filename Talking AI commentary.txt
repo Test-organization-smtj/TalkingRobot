@@ -1,0 +1,17 @@
+---- Commentary
+
+--- Sahan's comments on June 15th 22
+
+-- Talking AI (an AI which can understand and react to speach or do both at the same time) --
+
+-- The AI should,
+1) Understand speach
+2) Give responses for speach
+
+3) or do both at the same time (I think this is more straight forward method because human
+thought process is also a real time action and reaction sequence than storing data, processing etc.
+Just think why there is the internal voice working non-stop? Because we are providing responses to 
+even the internal speach.
+
+I think the third option should be the starting point. Shall we start doing small projects and review
+on the progress?
