@@ -15,3 +15,6 @@ even the internal speach.
 
 I think the third option should be the starting point. Shall we start doing small projects and review
 on the progress?
+
+This tutorial might guide us somewhere 
+https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_speech_recognition.htm
